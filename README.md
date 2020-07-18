@@ -1,1 +1,1 @@
-# PSD-to-HTML_1
+# PSD to HTML (Hotel)
